@@ -29,4 +29,4 @@ We will do so by first bridging the gap between leveraging standard open-access 
 Contact [edu@tinyml.org](mailto:edu@tinyml.org) with any questions regarding this workshop.
 
 ### Supporters
-We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), the [**Universidade Federal de Itajubá**](https://unifei.edu.br/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of all of our TinyML educational content!
+We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), the [**Universidade Federal de Itajubá**](https://unifei.edu.br/), [**Edge Impulse**](https://www.edgeimpulse.com/), [**Arm**](https://www.arm.com/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of our TinyML educational content!
