@@ -1,0 +1,71 @@
+headers:
+ - "Day"
+ - "Date"
+ - "Topics"
+ - "Speakers and Materials"
+
+days:
+  - number: "1"
+    dayOfWeek: "Monday"
+    name: "TBD"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "TBD"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+
+  - number: "2"
+    dayOfWeek: "Tuesday"
+    name: "TBD"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "TBD"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+
+  - number: "3"
+    dayOfWeek: "Wednesday"
+    name: "TBD"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "TBD"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+
+  - number: "4"
+    dayOfWeek: "Thursday"
+    name: "TBD"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "TBD"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+
+  - number: "5"
+    dayOfWeek: "Friday"
+    name: "TBD"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "TBD"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"

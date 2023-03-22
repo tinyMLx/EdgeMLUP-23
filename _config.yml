@@ -1,0 +1,14 @@
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: dhilanr/jekyll-theme-crestlex
+
+url: https://tinyml.seas.harvard.edu
+baseurl: /EdgeMLUP-23
+
+title: Edge ML University Program 2023
+
+alert:
+    - success
