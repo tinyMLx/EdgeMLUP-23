@@ -7,7 +7,7 @@ headers:
 days:
   - number: "1"
     dayOfWeek: "Monday"
-    name: "TBD"
+    name: "Embedded ML Education Day 1"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
@@ -20,7 +20,7 @@ days:
 
   - number: "2"
     dayOfWeek: "Tuesday"
-    name: "TBD"
+    name: "Embedded ML Education Day 2"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
@@ -46,7 +46,7 @@ days:
 
   - number: "4"
     dayOfWeek: "Thursday"
-    name: "TBD"
+    name: "Research in Emebedded ML Day 1"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
@@ -59,7 +59,7 @@ days:
 
   - number: "5"
     dayOfWeek: "Friday"
-    name: "TBD"
+    name: "Research in Emebedded ML Day 2"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
