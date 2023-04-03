@@ -19,11 +19,9 @@ We will do so by first bridging the gap between leveraging standard open-access 
 
 ### Schedule
 
-<!-- The workshop will run each day from 9:00 AM to 5:00 PM local time. -->
+The workshop will run each day from 9:00 AM to 5:00 PM local time. You can find a draft schedule below, exact timing and topics subject to change.
 
-**Schedule Coming Soon!**
-
-<!-- {% include schedule_table table_data = site.data.schedule %} -->
+{% include schedule_table table_data = site.data.schedule %}
 
 ### Questions?
 Contact [edu@tinyml.org](mailto:edu@tinyml.org) with any questions regarding this workshop.
