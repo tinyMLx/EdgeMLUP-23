@@ -1,1 +1,2 @@
-Register to attend for free by **Thursday, April 27, 2023** on the [ICTP website](https://indico.ictp.it/event/10185)!
+<!-- Register to attend for free by **Thursday, April 27, 2023** on the [ICTP website](https://indico.ictp.it/event/10185)! -->
+The Workshop will be held at the [ICTP Adriatic Guesthouse](https://www.ictp.it/building/adriatico-guesthouse) located at Riva Massimiliano e Carlotta, 34151 Grignano, TS, Italy

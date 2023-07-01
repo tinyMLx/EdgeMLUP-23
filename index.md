@@ -9,7 +9,8 @@ title: false
 
 # Welcome!
 
->The Edge ML University Program 2023: Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education will be run in person in English at ICTP from from July 3-7 2023. Register to attend for free by **Thursday, April 27, 2023** on the [ICTP website](https://indico.ictp.it/event/10185)!<br>
+>The Edge ML University Program 2023: Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education will be run in person in English at ICTP from from July 3-7 2023. 
+<!-- Register to attend for free by **Thursday, April 27, 2023** on the [ICTP website](https://indico.ictp.it/event/10185)!<br> -->
 
 This workshop aims to develop sustainable university programs in embedded machine learning (also known as TinyML).
 

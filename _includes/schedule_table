@@ -14,7 +14,12 @@
       <td>{{ day.dayOfWeek }}</td>
       <td><b>{{ day.name }}</b><br>
         {% for item in day.schedule %}
-        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">{{ item.time }}</i>&nbsp; {{ item.name }}<br>
+        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">{{ item.time }}</i>&nbsp; {% if item.subnames %}<b>{% endif %} {{ item.name }} {% if item.subnames %}</b>{% endif %}<br>
+        {% if item.subnames %}
+        {% for subname in item.subnames %}
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ subname }}<br>
+        {% endfor %}
+        {% endif %}
         {% endfor %}
       </td>
       <td>
