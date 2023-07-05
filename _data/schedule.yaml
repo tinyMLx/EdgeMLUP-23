@@ -353,6 +353,9 @@ days:
             related_to_next: "1"
           - title: "Xiao Github"
             url: "https://github.com/Mjrovai/XIAO-ESP32S3-Sense"
+            related_to_next: "1"
+          - title: "Arduino Github"
+            url: "https://github.com/canchebagur/smr3851"
 
   - number: "4"
     dayOfWeek: "Thursday"
