@@ -3,7 +3,7 @@ title: Staff
 ---
 # *Hello* 👋 from our team!
 
-These individuals worked behind the scenes to make SciTinyML a reality. Feel free to [**reach out**](mailto:edu@tinyml.org) to us with any questions!
+These individuals worked behind the scenes to make EdgeMLUP a reality. Feel free to [**reach out**](mailto:edu@tinyml.org) to us with any questions!
 
 {% if site.data.team.local_organizers.size > 0 %}
 # Lead Organizer{% if site.data.team.local_organizers.size > 1 %}s{% endif %}

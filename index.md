@@ -4,6 +4,7 @@ title: false
 <figure class="figure">
   <center>
   <img src="{{ site.baseurl }}/assets/cover.png" alt="advertisement for the workshops" class="vid-fluid rounded center">
+  <img src="{{ site.baseurl }}/assets/groupPhoto.jpg" alt="group photo" class="vid-fluid rounded center">
   </center>
 </figure>
 

@@ -439,11 +439,14 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      # - name: "Marco Zennaro"
-      #   website: "http://users.ictp.it/~mzennaro/"
-      #   affiliation:
-      #     name: "ICTP"
-      #     website: "https://www.ictp.it/"
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/13wMvQTnBA3QV0ZwyeugXDMCLrdoL_UlW9a9ZvmOysEg/"
+            related_to_next: "1"
+          - title: "as PDF"
+            url: "/assets/slides/Plancher-Sustainable-and-Privacy-Preserving-EdgeML.pdf"
+            local: "1"
+            related_to_next: ""
 
   - number: "5"
     dayOfWeek: "Friday"
