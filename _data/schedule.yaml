@@ -133,7 +133,7 @@ days:
           - "- TinyML Course at ITU - Sebastian Buettrich"
           - "- TinyML Teaching Experience - Solomon Gizaw"
           - "- TinyML Teaching Experience and Supervising Capstone Projects - Ronald Criollo"
-          - "- Teaching TinyML and Supervising Capstone Projects - Nabil Benamar"
+          # - "- Teaching TinyML and Supervising Capstone Projects - Nabil Benamar"
           - "- The Challenging First Steps of Graduate Students in TinyML - Diego Mendez Chaves"
           - "- Micro-Credential Course on TinyML - Rosdiadee Nordin"
       - time: "3:45 PM"
@@ -151,64 +151,108 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://edgeimpulse.com"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Future_of_EmbeddedML_ICTP_Workshop _Trieste_2023.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Evgeni Gousev"
         website: "https://www.linkedin.com/in/evgeni-gousev-2832858"
         affiliation:
           name: "Qualcomm Research"
           website: "https://www.qualcomm.com/research"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/tinyML_forEDU_workshop_July2023.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "David Cuartielles"
         website: "https://mau.se/en/persons/david.cuartielles/"
         affiliation:
           name: "Arduino (Co-Founder)"
           website: "https://www.arduino.cc/en/about#founders"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Marcus Rüb"
         website: "https://de.linkedin.com/in/marcus-rueb"
         affiliation:
           name: "Hahn-Schickard"
           website: "https://www.hahn-schickard.de/en/"
-      - name: "Thomas Amberg"
-        website: "https://ch.linkedin.com/in/thomasamberg"
-        affiliation:
+        name2: "Thomas Amberg"
+        website2: "https://ch.linkedin.com/in/thomasamberg"
+        affiliation2:
           name: "University of Applied Sciences Northwestern Switzerland"
           website: "https://www.fhnw.ch/en/startseite"
+        # links:
+        #   - title: "Slides (Marcus)"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
+        #   - title: "Slides (Thomas)"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Sebastian Buettrich"
         website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
         affiliation:
           name: "IT University of Copenhagen"
           website: "https://en.itu.dk/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/TinyML_at_IT_University_of_Copenhagen_-_ICTP_July_2023.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Solomon Gizaw"
         website: "https://et.linkedin.com/in/solomon-gizaw-7aa606224"
         affiliation:
           name: "CGIAR"
           website: "cgiar.org"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Ronald Criollo"
         # website: "TBD"
         affiliation:
           name: "Escuela Superior Politécnica del Litoral"
           website: "https://www.espol.edu.ec"
-      - name: "Nabil Benamar"
-        website: "https://ma.linkedin.com/in/nabil-benamar13375845/en"
-        affiliation:
-          name: "Moulay Ismail University"
-          website: "https://www.umi.ac.ma/?lang=en"
-        affiliation2:
-          name: "Al Akhawayn University"
-          website: "http://www.aui.ma/en/homeen.html"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/criollo-ictp_presentation.pdf"
+            local: "1"
+            related_to_next: ""
+      # - name: "Nabil Benamar"
+      #   website: "https://ma.linkedin.com/in/nabil-benamar13375845/en"
+      #   affiliation:
+      #     name: "Moulay Ismail University"
+      #     website: "https://www.umi.ac.ma/?lang=en"
+      #   affiliation2:
+      #     name: "Al Akhawayn University"
+      #     website: "http://www.aui.ma/en/homeen.html"
       - name: "Diego Méndez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Diego_2023-07-04_TinyML_Teaching-Research_Experience.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Rosdiadee Nordin"
         website: "https://sites.google.com/site/rosdiadee/"
         affiliation:
           name: "Universiti Kebangsaan Malaysia"
           website: "https://www.ukm.my/portalukm/"
-      # - name: "Marco Zennaro"
-      #   website: "http://users.ictp.it/~mzennaro/"
-      #   affiliation:
-      #     name: "ICTP"
-      #     website: "https://www.ictp.it/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
 
   - number: "3"
     dayOfWeek: "Wednesday"
@@ -241,36 +285,72 @@ days:
         affiliation: 
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Pietro Manzoni"
         website: "https://es.linkedin.com/in/pietro-manzoni-upv"
         affiliation:
           name: "Universidad Politécnica de Valencia"
           website: "https://www.upv.es/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/From_LoRa_to_the_Cloud.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Paul Kucera"
         website: "https://www.linkedin.com/in/paul-kucera-01510833"
         affiliation: 
           name: "UCAR/COMET"
           website: "https://www.ucar.edu/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Cyril Caminade"
         website: "https://sites.google.com/site/climatecam/cv"
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-      - name: "José Antonio Bagur Nájera"
-        website: "https://www.linkedin.com/in/joseantoniobagur/"
-        affiliation:
+        name2: "José Antonio Bagur Nájera"
+        website2: "https://www.linkedin.com/in/joseantoniobagur/"
+        affiliation2:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
-      # - name: "Marco Zennaro"
-      #   website: "http://users.ictp.it/~mzennaro/"
-      #   affiliation:
-      #     name: "ICTP"
-      #     website: "https://www.ictp.it/"
+        links:
+          - title: "Slides Part 0"
+            url: "/assets/slides/0-Rovai-XIAO-Hands-On.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Slides Part 1"
+            url: "/assets/slides/1.XIAO_ESP32S3-Image_Classification.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Slides Part 2"
+            url: "/assets/slides/2.XIAO_ESP32S3-Motion_Classification.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Slides Part 3"
+            url: "/assets/slides/3.XIAO_ESP32S3-Keyword_Spotting.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Extra Slides"
+            url: "/assets/slides/4.Extra-EI Studio - Spectral Analysis.pdf"
+            local: "1"
+            related_to_next: "1"
 
   - number: "4"
     dayOfWeek: "Thursday"
