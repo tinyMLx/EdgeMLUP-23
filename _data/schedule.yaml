@@ -210,11 +210,11 @@ days:
         affiliation:
           name: "CGIAR"
           website: "cgiar.org"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Ethiopia-Progress-TinyML.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Ronald Criollo"
         # website: "TBD"
         affiliation:
@@ -248,11 +248,11 @@ days:
         affiliation:
           name: "Universiti Kebangsaan Malaysia"
           website: "https://www.ukm.my/portalukm/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/UKM_TinyML.pdf"
+            local: "1"
+            related_to_next: ""
 
   - number: "3"
     dayOfWeek: "Wednesday"
