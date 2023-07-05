@@ -186,15 +186,15 @@ days:
         affiliation2:
           name: "University of Applied Sciences Northwestern Switzerland"
           website: "https://www.fhnw.ch/en/startseite"
-        # links:
-        #   - title: "Slides (Marcus)"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
-        #   - title: "Slides (Thomas)"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          # - title: "Slides (Marcus)"
+          #   url: "/assets/slides/TBD.pdf"
+          #   local: "1"
+          #   related_to_next: ""
+          - title: "Slides (Thomas)"
+            url: "/assets/slides/BestPracticeForOpenTrainingMaterials.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Sebastian Buettrich"
         website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
         affiliation:
@@ -351,6 +351,8 @@ days:
             url: "/assets/slides/4.Extra-EI Studio - Spectral Analysis.pdf"
             local: "1"
             related_to_next: "1"
+          - title: "Xiao Github with More Tutorials"
+            url: "https://github.com/Mjrovai/XIAO-ESP32S3-Sense"
 
   - number: "4"
     dayOfWeek: "Thursday"
