@@ -285,11 +285,11 @@ days:
         affiliation: 
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/eric-making-sense-of-the-wild-tinyml.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Pietro Manzoni"
         website: "https://es.linkedin.com/in/pietro-manzoni-upv"
         affiliation:
@@ -409,6 +409,11 @@ days:
         affiliation:
           name: "BITS Pilani - K K Birla Goa Campus"
           website: "https://www.bits-pilani.ac.in/goa/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -424,21 +429,41 @@ days:
         affiliation:
           name: "CONICET"
           website: "https://www.conicet.gov.ar/?lan=en"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Milan Lukic"
         website: "https://rs.linkedin.com/in/milan-luki%C4%87-a64082171"
         affiliation:
           name: "University of Novi Sad"
           website: "https://www.uns.ac.rs/index.php/en/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Jackline Tum"
         website: "https://ke.linkedin.com/in/jackline-tum-"
         affiliation: 
           - name: "Dedan Kimathi University of Technology"
             url: "https://www.dkut.ac.ke/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Halleluyah Aworinde"
         website: "https://ng.linkedin.com/in/halleluyah"
         affiliation:
           name: "Bowen University"
           website: "https://bowen.edu.ng/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: ""
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
