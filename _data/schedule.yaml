@@ -396,7 +396,9 @@ days:
         name: "Lunch"
       - time: "2:00 PM"
         name: "White Paper on Embedded ML University Program Design Part 1"
-        subnames: "<a href=\"https://docs.google.com/document/d/1mDjy2Wmg38zghhYyB-ZSFMxf-zDZwq9J8m78WrvXdVI/\">Working Outline</a>"
+        subnames: 
+          - "<a href=\"https://docs.google.com/document/d/1mDjy2Wmg38zghhYyB-ZSFMxf-zDZwq9J8m78WrvXdVI/\">Working Outline</a>"
+          - "<a href=\"https://docs.google.com/spreadsheets/d/1so8lqb9czSuk9uruwDQuJO6r1stUz4u9ksK1J1FEgT0/\">Curriculum Topics</a>"
       - time: "5:00 PM"
         name: "Day Closing"
       - time: "5:00 - 7:00 PM"
@@ -496,7 +498,7 @@ days:
       #   subnames:
       #     - "Teaching TinyML in ARM Laboratories"
       - time: "9:00 AM"
-        name: "TBD" #Hands-On TinyML"
+        name: "Hands-On TinyML"
       - time: "10:00 AM"
         name: "Coffee Break"
       - time: "10:30 AM"
