@@ -391,7 +391,7 @@ days:
       #   name: "Research Talks Reflections and Lessons Learned"
       - time: "12:30 PM"
         name: "Lunch"
-      - time: "1:45 PM"
+      - time: "2:00 PM"
         name: "White Paper on Embedded ML University Program Design"
         subnames: ""
       - time: "5:00 PM"
