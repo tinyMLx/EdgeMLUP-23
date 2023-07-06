@@ -17,11 +17,17 @@ Workshop on Widening Access to TinyML Network by Establishing Best Practices in 
 </a>
 <br/>
 <a style="text-decoration:none" href="https://www.edgeimpulse.com/">
-  <img src="{{ '/assets/edgeimpulse.png' | relative_url }}" alt="Edge Impulse" style="height: 2.0rem">
+  <img src="{{ '/assets/edgeimpulse.png' | relative_url }}" alt="Edge Impulse" style="height: 1.8rem">
 </a>
 <a style="text-decoration:none" href="https://www.arm.com/">
-  <img src="{{ '/assets/arm.png' | relative_url }}" alt="Arm" style="height: 1.8rem">
+  <img src="{{ '/assets/arm.png' | relative_url }}" alt="Arm" style="height: 1rem">
+</a>
+<a style="text-decoration:none" href="https://www.arduino.cc/">
+  <img src="{{ '/assets/arduino.png' | relative_url }}" alt="Arduino" style="height: 2.6rem">
+</a>
+<a style="text-decoration:none" href="https://www.seeedstudio.com/">
+  <img src="{{ '/assets/seeed.png' | relative_url }}" alt="Seeed Studio" style="height: 2rem">
 </a>
 <a style="text-decoration:none" href="https://www.tinyml.org/">
-  <img src="{{ '/assets/tinyML.svg' | relative_url }}" alt="TinyML Foundation" style="height: 3rem">
+  <img src="{{ '/assets/tinyML.svg' | relative_url }}" alt="TinyML Foundation" style="height: 2.6rem">
 </a>

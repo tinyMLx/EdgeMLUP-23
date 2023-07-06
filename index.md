@@ -10,7 +10,7 @@ title: false
 
 # Welcome!
 
->The Edge ML University Program 2023: Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education will be run in person in English at ICTP from from July 3-7 2023. 
+>The Edge ML University Program 2023: Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education was run in person in English at ICTP from from July 3-7 2023. Thanks for coming!
 <!-- Register to attend for free by **Thursday, April 27, 2023** on the [ICTP website](https://indico.ictp.it/event/10185)!<br> -->
 
 This workshop aims to develop sustainable university programs in embedded machine learning (also known as TinyML).
@@ -29,4 +29,4 @@ The workshop will run each day from 9:00 AM to 5:00 PM local time. You can find 
 Contact [edu@tinyml.org](mailto:edu@tinyml.org) with any questions regarding this workshop.
 
 ### Supporters
-We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), the [**Universidade Federal de Itajubá**](https://unifei.edu.br/), [**Edge Impulse**](https://www.edgeimpulse.com/), [**Arm**](https://www.arm.com/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of our TinyML educational content!
+We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), the [**Universidade Federal de Itajubá**](https://unifei.edu.br/), [**Edge Impulse**](https://www.edgeimpulse.com/), [**Arm**](https://www.arm.com/), [**Arduino**](https://www.arduino.cc/), [**Seeed Studio**](https://www.seeedstudio.com/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of our TinyML educational content!
