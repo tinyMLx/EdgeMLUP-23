@@ -308,11 +308,11 @@ days:
         affiliation: 
           name: "UCAR/COMET"
           website: "https://www.ucar.edu/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Benefits_and_Challenges_Low_Cost_Weather_Stations.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Cyril Caminade"
         website: "https://sites.google.com/site/climatecam/cv"
         affiliation:
@@ -395,11 +395,11 @@ days:
       - time: "12:30 PM"
         name: "Lunch"
       - time: "2:00 PM"
-        name: "White Paper on Embedded ML University Program Design"
-        subnames: ""
+        name: "White Paper on Embedded ML University Program Design Part 1"
+        subnames: "<a href=\"https://docs.google.com/document/d/1mDjy2Wmg38zghhYyB-ZSFMxf-zDZwq9J8m78WrvXdVI/\">Working Outline</a>"
       - time: "5:00 PM"
         name: "Day Closing"
-      - time: "5:00 - 8:00 PM"
+      - time: "5:00 - 7:00 PM"
         name: "SciFabLab visit"
     speakers:
       # - name: "Massimo Banzi"
@@ -430,13 +430,16 @@ days:
       - name: "Laila Kazimierski"
         website: "https://ar.linkedin.com/in/laila-kazimierski-6552b3255"
         affiliation:
-          name: "CONICET"
-          website: "https://www.conicet.gov.ar/?lan=en"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+          name: "Centro Atómico Bariloche"
+          website: "https://www.argentina.gob.ar/cnea/cab"
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1xMTY3_G65xo9PmVqAdvQz7lk3-hYz9R4iQapL4gsq8A/"
+            related_to_next: "1"
+          - title: "as PDF"
+            url: "/assets/slides/TinyML-Workshop-July 2023-Kazimierski.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Milan Lukic"
         website: "https://rs.linkedin.com/in/milan-luki%C4%87-a64082171"
         affiliation:
@@ -465,11 +468,11 @@ days:
         affiliation:
           name: "Bowen University"
           website: "https://bowen.edu.ng/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Halleluyah-Aworinde-TinyML-Workshop-Talk.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
@@ -488,28 +491,32 @@ days:
     dayOfWeek: "Friday"
     name: "Growing the 4D Network and Increasing Collaboration"
     schedule:
+      # - time: "9:00 AM"
+      #   name: "Keynote Session - Stephen Ozoigbo"
+      #   subnames:
+      #     - "Teaching TinyML in ARM Laboratories"
       - time: "9:00 AM"
-        name: "Keynote Session - Stephen Ozoigbo"
-        subnames:
-          - "Teaching TinyML in ARM Laboratories"
+        name: "TBD" #Hands-On TinyML"
       - time: "10:00 AM"
         name: "Coffee Break"
       - time: "10:30 AM"
-        name: "The Future of Embedded ML"
+        name: "White Paper on Embedded ML University Program Design Part 2"
+        subnames: ""
       - time: "12:30 AM"
         name: "Lunch"
       - time: "2:00 PM"
-        name: "Feedback Discussion"
+        name: "Feedback and Collaboration Discussions"
       - time: "3:00 PM"
-        name: "Collaboration Discussion"
+        name: "The Future of TinyML4D"
+        subnames: ""
       - time: "4:00 PM"
         name: "Closing Ceremony"
     speakers:
-      - name: "Stephen Ozoigbo"
-        website: "https://www.linkedin.com/in/stephenozoigbo"
-        affiliation:
-          name: "ARM"
-          website: "https://www.arm.com/"
+      # - name: "Stephen Ozoigbo"
+      #   website: "https://www.linkedin.com/in/stephenozoigbo"
+      #   affiliation:
+      #     name: "ARM"
+      #     website: "https://www.arm.com/"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
