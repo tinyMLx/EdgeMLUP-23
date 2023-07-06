@@ -414,6 +414,11 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/make-programming-great-again.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Laila Kazimierski"
         website: "https://ar.linkedin.com/in/laila-kazimierski-6552b3255"
         affiliation:
