@@ -458,8 +458,8 @@ days:
       - name: "Jackline Tum"
         website: "https://ke.linkedin.com/in/jackline-tum-"
         affiliation: 
-          - name: "Dedan Kimathi University of Technology"
-            url: "https://www.dkut.ac.ke/"
+          name: "TinyML Kenya"
+          website: "https://twitter.com/tinymlkenya?lang=en"
         # links:
         #   - title: "Slides"
         #     url: "/assets/slides/TBD.pdf"
