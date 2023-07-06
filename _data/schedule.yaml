@@ -171,11 +171,14 @@ days:
         affiliation:
           name: "Arduino (Co-Founder)"
           website: "https://www.arduino.cc/en/about#founders"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        affiliation2:
+          name: "Malmö University"
+          website: "https://mau.se/en/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/David-Arduino-Pedagogical-Examples.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Marcus Rüb"
         website: "https://de.linkedin.com/in/marcus-rueb"
         affiliation:
@@ -409,11 +412,11 @@ days:
         affiliation:
           name: "BITS Pilani - K K Birla Goa Campus"
           website: "https://www.bits-pilani.ac.in/goa/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Neena_Goveas_Workshop_TinyML_2023.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -439,11 +442,14 @@ days:
         affiliation:
           name: "University of Novi Sad"
           website: "https://www.uns.ac.rs/index.php/en/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1ajwgpOduHdOruvnl6xHVDG3i_4j3ifObgAI7rRznqO4"
+            related_to_next: "1"
+          - title: "as PDF"
+            url: "/assets/slides/Milan-Iot-Edge-ML.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Jackline Tum"
         website: "https://ke.linkedin.com/in/jackline-tum-"
         affiliation: 
