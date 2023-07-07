@@ -318,11 +318,11 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: ""
+        links:
+          - title: "Slides"
+            url: "/assets/slides/cyril-monitoring-mosquitoes.pdf"
+            local: "1"
+            related_to_next: ""
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
