@@ -530,3 +530,8 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Zennaro-Closing.pdf"
+            local: "1"
+            related_to_next: ""
